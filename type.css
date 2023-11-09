@@ -1,0 +1,28 @@
+/* #prg {
+    font-weight: normal;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .Out {
+    text-decoration: line-through;
+  }
+  
+  .Bold {
+    font-weight: bold;
+  }
+  
+  .Red {
+    color: red;
+  } */
+
+  #elem {
+    display: none;
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+  }
+  #elem.active {
+    display: block;
+  }
+
